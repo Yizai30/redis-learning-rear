@@ -9,7 +9,7 @@ spring:
     username: root
     password: yizairoot
   redis:
-    host: 122.192.27.61
+    host: localhost
     port: 6379
     lettuce:
       pool:
